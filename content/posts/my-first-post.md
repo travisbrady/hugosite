@@ -1,5 +1,5 @@
 ---
-title: "Hello, Friends!"
+title: "A Brief Introduction"
 date: 2020-11-23T19:29:20-06:00
 draft: false
 ---
@@ -13,4 +13,4 @@ First post. Mostly just testing for now but thought I'd describe a few areas I p
 - Reviews of cookies: I'm not kidding I plan to review cookies
 - I'll probably also review pizza as well while I'm at it
 - Writeups on my cycling training and my dreams of owning a [BMC Roadmachine One](https://us-en.bmc-switzerland.com/roadmachine-one.html)
-- Coffee: I am far from an expert but I love experimenting
+- Coffee: I am far from a pro but I love experimenting and am a fan of the gear from [Fellow](https://fellowproducts.com/)
