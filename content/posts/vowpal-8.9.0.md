@@ -1,7 +1,7 @@
 ---
 title: "New Stuff in Vowpal Wabbit 8.9.0"
-date: 2020-12-10T09:57:29-06:00
-draft: true
+date: 2020-12-14T09:57:29-06:00
+draft: false
 ---
 
 # New Stuff in Vowpal Wabbit 8.9.0
@@ -10,7 +10,7 @@ Vowpal Wabbit 8.9.0 was [released a few weeks ago](https://vowpalwabbit.org/blog
 I think it's fair to say that it's largest new release in my memory having used and followed the project now since 2014.
 This release shows excellent progress apparently due at least in part to Microsoft's increased investment and reliance on the project.
 
-Taken as a whole, this release seems to focus primarily on algorithm support and offline ease-of-use as opposed to in-production-ease-of-use. This may be because the production niceties are often handled by [Azure Personalizer](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/) and so it likely makes more sense for the vowpal team to shift focus away from things like model management, monitoring, delayed/buffered reward joining (aka the "join server"). In short: reinforcement learning in production requires a lot of robust data pipeline components and very capable engineering beyond just the algorithms themselves and Microsoft seems to be focusing on monetizing that portion of the work but still allowing the core ML work to be fully open and usable by anyone.
+This release seems to focus primarily on algorithm support and offline ease-of-use as opposed to in-production-ease-of-use. This may be because the production niceties are often handled by [Azure Personalizer](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/) and so it likely makes more sense for the vowpal team to shift focus away from things like model management, monitoring, delayed/buffered reward joining (aka the "join server"). In short: reinforcement learning in production requires a lot of robust data pipeline components and very capable engineering beyond just the algorithms themselves and Microsoft seems to be focusing on monetizing that portion of the work but still allowing the core ML work to be fully open and usable by anyone.
 
 The page linked above does a good job summarizing the new stuff but I'll recap here in brief:
 - [Easy Python installation via wheels](https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Python#support)
