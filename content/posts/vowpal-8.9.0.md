@@ -50,3 +50,5 @@ I have yet to try SquareCB but plan to compare it to other approaches using the 
 ## Also
 Vowpal now also has a pretty active [Gitter room](https://gitter.im/VowpalWabbit/community?source=orgpage) which seems to have picked up helpful discussion since the
 demise of the old vw Yahoo group. Definitely worth a look if you're actively engaged in the project.
+
+It also seems worth checking out [this talk from NeurIPS 2020 Expo Day](https://slideslive.com/38942331/vowpal-wabbit) I recently spotted on Twitter.
