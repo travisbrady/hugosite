@@ -19,8 +19,8 @@ In addition to my focus areas at work I enjoy creating efficient and explicitly 
 I also have a long-running interest in sketching and streaming algorithms evidenced by my [flajolet](https://github.com/travisbrady/flajolet) library. The library is named for [Philippe Flajolet](http://algo.inria.fr/flajolet/) inventor of the Hyperloglog data structure.
 
 ## Personal
-I grew up in the suburbs of Philadelphia and have since lived in Austin, San Francisco, DC and San Diego. I'm a huge fan of
-exploring cities, cycling, neapolitan pizza, functional programming, baking (mediocre) bread, the older friendlier goofier internet and I love the novels of Charles Portis.
+I live in central Austin, TX with my wife and three wonderful kids. I grew up in the suburbs of Philadelphia and have also lived in San Francisco, DC and San Diego. 
+I'm a huge fan of exploring cities, cycling, neapolitan pizza, 19th century history, functional programming, baking (mediocre) bread, the older friendlier goofier internet and I love the novels of Charles Portis.
 
 You can also find me on [Linkedin](linkedin.com/in/travisbrady), [Spotify](https://open.spotify.com/user/1213527472?si=P4FXnESfSzKW_vrnDqruzw) and [Strava](https://www.strava.com/athletes/1607)
 

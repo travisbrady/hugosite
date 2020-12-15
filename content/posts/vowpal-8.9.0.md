@@ -6,6 +6,8 @@ draft: false
 
 # New Stuff in Vowpal Wabbit 8.9.0
 
+{{< figure class="avatar" width="80" src="/vw_logo.png" >}}
+
 Vowpal Wabbit 8.9.0 was [released a few weeks ago](https://vowpalwabbit.org/blog/vowpalwabbit-8.9.0.html) and includes a *ton* of interesting new features.
 I think it's fair to say that it's largest new release in my memory having used and followed the project now since 2014.
 This release shows excellent progress apparently due at least in part to Microsoft's increased investment and reliance on the project.

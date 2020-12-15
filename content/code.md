@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Open Source Software
-My open source code is all visible on my Github page but I collect a few highlights here along with their goals.
+My open source code is all visible on [my Github page](https://github.com/travisbrady/) but I collect a few highlights here along with their goals.
 1. [ocaml-vw](https://github.com/travisbrady/ocaml-vw) OCaml bindings to the [Vowpal Wabbit](https://vowpalwabbit.org/) machine learning system
 2. [word2phrase.py](https://github.com/travisbrady/word2phrase) Python port of T. Mikolov's word2phrase algorithm
 3. [ccard](https://github.com/travisbrady/ccard) Fast command line utility for the approximate counting of strings. Uses the Loglog-Beta algorithm for distinct values estimation component and Metrohash for hashing. Helpful if you work with lots of text data at the command line
