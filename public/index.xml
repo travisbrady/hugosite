@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Travis Brady</title>
+    <link>https://travisbrady.github.io/</link>
+    <description>Recent content in About on Travis Brady</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 18:34:42 -0600</lastBuildDate><atom:link href="https://travisbrady.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>https://travisbrady.github.io/code/</link>
+      <pubDate>Mon, 30 Nov 2020 19:57:59 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/code/</guid>
+      <description>Open Source Software My open source code is all visible on my Github page but I collect a few highlights here along with their goals.
+ ocaml-vw OCaml bindings to the Vowpal Wabbit machine learning system word2phrase.py Python port of T. Mikolov&amp;rsquo;s word2phrase algorithm ccard Fast command line utility for the approximate counting of strings. Uses the Loglog-Beta algorithm for distinct values estimation component and Metrohash for hashing. Helpful if you work with lots of text data at the command line flajolet OCaml library providing approximate/sketching data structures for things such as distinct values estimation (hyperloglog), approximate set membership (bloom filters), frequency estimation (count min sketch), top-k queries (aka approximate frequency tables) ocaml-h3 OCaml bindings to Uber&amp;rsquo;s H3 hierarchical spatial indexing system  </description>
+    </item>
+    
+    <item>
+      <title>Worthwhile Practical ML in Production Papers</title>
+      <link>https://travisbrady.github.io/posts/worthwhile-papers/</link>
+      <pubDate>Tue, 24 Nov 2020 18:34:42 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/posts/worthwhile-papers/</guid>
+      <description>Worthwhile Practical Papers Interesting papers for folks engaged in building production ML systems primarily for user-facing use cases. This covers things like computational advertising, click estimation, search ranking, bandit-based user experience optimization, recommender systems and other related things.
+Ad Click Prediction: a View from the Trenches [link] A well-known paper from a large group a Google sharing details on Google&amp;rsquo;s sponsored search system. I like this paper because it naturally mixes lots of practical lessons about using ML in production with a notable theory contribution (FTRL).</description>
+    </item>
+    
+    <item>
+      <title>A Brief Introduction</title>
+      <link>https://travisbrady.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Nov 2020 19:29:20 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/posts/my-first-post/</guid>
+      <description>First post. Mostly just testing for now but thought I&amp;rsquo;d describe a few areas I plan to focus on if I&amp;rsquo;m actually able to continue writing here.
+ Simplicity in machine learning Ways you can shoot yourself in the foot with machine learning Quick Surveys of sub-fields within Data Science and Machine Learning Evaluations of software options for certain specific ML applications Reviews of cookies: I&amp;rsquo;m not kidding I plan to review cookies I&amp;rsquo;ll probably also review pizza as well while I&amp;rsquo;m at it Writeups on my cycling training and my dreams of owning a BMC Roadmachine One Coffee: I am far from a pro but I love experimenting and am a fan of the gear from Fellow  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://travisbrady.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://travisbrady.github.io/about/</guid>
+      <description>About Me  Professional I&amp;rsquo;m a Data Science and ML Engineering leader focused on building high-performing teams and high-quality learning systems with simplicity, intent and ambition.
+I enjoy working on hard problems and love working with people that enjoy the same. For the last five years I&amp;rsquo;ve been at Expedia Group focused on areas such as contextual bandits for personalization, UX optimization, search ranking, recommender systems, NLP and more.
+Prior to my time with Expedia I have significant experience in SaaS, online games, online ads and economic consulting where I was lucky to get to work among a group of very talented folks.</description>
+    </item>
+    
+  </channel>
+</rss>
