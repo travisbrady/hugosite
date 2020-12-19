@@ -1,6 +1,7 @@
 ---
 title: "New Stuff in Vowpal Wabbit 8.9.0"
 date: 2020-12-14T09:57:29-06:00
+tags: ["machinelearning", "reinforcementlearning", "vowpalwabbit"]
 draft: false
 ---
 

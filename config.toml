@@ -34,3 +34,7 @@ math = false  # enable KaTeX (https://katex.org/) globally
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
